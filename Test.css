@@ -1,10 +1,12 @@
 
 .TestBackground{
-
     background-color: #f1f1f1;
     color: #000;
-
     margin-left: 0%;
+    width: auto;
+    border: brown;
+}
 
-   width: auto
+.NewChanges{
+    color: green;
 }
