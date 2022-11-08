@@ -5,9 +5,15 @@
     margin-left: 0%;
     width: auto;
     border: brown;
+    height: 0%;
 }
 
 .NewChanges{
     color: green;
-    padding: 0rem;
+    width: 0%;
+    height: 0%;
+}
+
+.colorChanges{
+    color: indianred;
 }
