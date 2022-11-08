@@ -17,4 +17,6 @@
     color: gold;
     background-color: greenyellow;
     border: 1px solid blueviolet;
+    text-align: center;
+    cursor: pointer;
 }
