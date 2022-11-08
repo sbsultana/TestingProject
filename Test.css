@@ -11,9 +11,10 @@
 .NewChanges{
     color: green;
     width: 0%;
-    height: 0%;
 }
 
 .colorChanges{
     color: gold;
+    background-color: greenyellow;
+    border: 1px solid blueviolet;
 }
