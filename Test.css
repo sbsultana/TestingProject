@@ -19,4 +19,5 @@
     border: 1px solid blueviolet;
     text-align: center;
     cursor: pointer;
+    float: left;
 }
